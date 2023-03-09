@@ -18,7 +18,7 @@ spec:
         app: accounts
     spec:
       containers:
-      - image: public.ecr.aws/x5y6j3b7/accounts:1
+      - image: IMAGE_NAME_HERE
         name: accounts
         resources: {}
 
